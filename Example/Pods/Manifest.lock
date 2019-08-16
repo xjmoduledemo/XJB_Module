@@ -1,0 +1,16 @@
+PODS:
+  - XJB_Module (0.1.0)
+
+DEPENDENCIES:
+  - XJB_Module (from `../`)
+
+EXTERNAL SOURCES:
+  XJB_Module:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XJB_Module: b7ad1db563df7f38b60825cf9e510aa070ec6e07
+
+PODFILE CHECKSUM: 0d2ea0c2684669ffda9af1c85031dae1e373fdb1
+
+COCOAPODS: 1.6.1

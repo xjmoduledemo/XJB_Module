@@ -1,0 +1,22 @@
+{
+  "name": "XJB_Module",
+  "version": "0.1.0",
+  "summary": "A short description of XJB_Module.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/785138468@qq.com/XJB_Module",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "785138468@qq.com": "xujingjing@xiaoniu.com"
+  },
+  "source": {
+    "git": "https://github.com/785138468@qq.com/XJB_Module.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XJB_Module/Classes/**/*"
+}

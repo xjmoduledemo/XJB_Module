@@ -1,0 +1,6 @@
+framework module XJB_Module {
+  umbrella header "XJB_Module-umbrella.h"
+
+  export *
+  module * { export * }
+}
